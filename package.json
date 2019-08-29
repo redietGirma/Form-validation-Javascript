@@ -1,0 +1,24 @@
+{
+  "name": "@redietgirma/registrationform",
+  "version": "1.0.0",
+  "description": "registration form",
+  "main": "main.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redietGirma/Form-validation-Javascript.git"
+  },
+  "keywords": [
+    "form",
+    "validation",
+    "registration"
+  ],
+  "author": "Rediet Girma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redietGirma/Form-validation-Javascript/issues"
+  },
+  "homepage": "https://github.com/redietGirma/Form-validation-Javascript#readme"
+}
