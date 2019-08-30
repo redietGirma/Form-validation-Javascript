@@ -1,16 +1,16 @@
 # Form-validation-Javascript
 
- A simple registration form validation with random password generator published on NPM.
+ A simple registration form validation with random password generator.
+ 
+  
+ #Installation
 
-prerequisites include :
-    1. github 
-    2. Installing node.js on your machine.
-    
-   Go to  "https://docs.npmjs.com/downloading-and-installing-packages-locally" for more Info.
+  use the following command to install the project
+```bash
+npm i @redietgirma/registrationform
+```
 
-To install the package use:-
-
-  > npm i @redietgirma/registrationform
+ 
  
 
  
